@@ -18,7 +18,7 @@ function closeMenu() {
   navMenu.classList.remove("active");
 }
 
-// Event Listeners: Handling toggle event
+// Event Listeners: Handling toggle event,,are
 const toggleSwitch = document.querySelector(
   '.theme-switch input[type="checkbox"]'
 );
